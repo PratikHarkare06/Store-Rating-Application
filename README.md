@@ -40,7 +40,7 @@ A modern full-stack web application for rating and managing stores with role-bas
 ## 🔐 Default Admin Credentials
 
 - **Email**: admin@storerating.com
-- **Password**: Admin@123
+- **Password**: Pass@6007
 
 ## 📁 Project Structure
 
